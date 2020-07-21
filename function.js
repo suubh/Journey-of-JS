@@ -14,3 +14,4 @@ important();//It will not print anything.
 
 var note=important();
 console.log(note);
+//
