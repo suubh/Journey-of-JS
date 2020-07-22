@@ -29,4 +29,4 @@ var getUserRole=function (name,role){
     }
 }
 
-console.log(getUserRole("Shubham","admin"));
+console.log(getUserRole("Shubham","admin"));//
