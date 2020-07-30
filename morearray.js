@@ -8,3 +8,9 @@ console.log(numbers.filter((n)=> n!=5));
 //Filter gnerally filter out according to the given condition and return an array.
 
 console.log(numbers.filter((n)=> n>6));
+
+
+//Example return an array in which every number is a multiple of 3 
+
+var result=numbers.filter((n)=> n%3==0);
+console.log(result);
