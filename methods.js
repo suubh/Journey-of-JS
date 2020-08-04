@@ -1,4 +1,4 @@
-//More on methods and Objects
+//More on methods and Objects.
 var user={
     firstName:"Shubham",
     lastName:"Singh",
@@ -30,7 +30,7 @@ var user={
 //console.log(user);
 user.getCourse("C++");
 user.getCourse("React.js");
-user.getCourse("C++");//It will show already registered 
+user.getCourse("C++");//It will show already
 user.getCourse("Python ");
 console.log(user.getCourseCount());//because getsCourseCount() is  just returning, so we have to log it out.
 console.log(user.getInfo());
