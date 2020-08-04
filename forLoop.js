@@ -1,6 +1,6 @@
-var satesr=["Assam","Arunachal","kolkata","Hyderabad",1987];
-
-for (var i ; i<satesr.length;i++){
-
+var i;
+for (let i = 0; i<10; i++) {
     console.log(i);
+    
 }
+console.log("sb");
