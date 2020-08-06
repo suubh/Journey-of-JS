@@ -16,4 +16,10 @@ while(i<name.length){
     i++;
 }
 
-//For each loop
+
+
+//For each loop(technically not a loop ,but a method on array)
+const states=['Assam','Arunachal','Kolkata','Hyderabad','Bangalore','Delhi'];
+states.forEach((i) => ( console.log(i) ));
+
+
