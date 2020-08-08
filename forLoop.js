@@ -24,5 +24,21 @@ states.forEach((i) => ( console.log(i) ));
 
 
 //For in and For of 
+const sites=['Facebook','Instagram','Github','Medium','LinkediN'];
+for(const i of sites){ //for of is generally used with array
+    console.log(i);
+}
+
+
+const sitesShort={ //for in is generally used with objects.
+    fb:'Facebook',
+    insta:'Instagram',
+    L:'LinkedIN',
+};
+for (const i in sitesShort){
+    console.log(sitesShort[i]);
+
+}
+
 
 
