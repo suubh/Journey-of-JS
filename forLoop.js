@@ -23,3 +23,6 @@ const states=['Assam','Arunachal','Kolkata','Hyderabad','Bangalore','Delhi'];
 states.forEach((i) => ( console.log(i) ));
 
 
+//For in and For of 
+
+
