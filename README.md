@@ -20,6 +20,13 @@
   <li><a href=""> Concept of "this" </a></li>
   <li><a href=""> Try and Catch </a></li>
 </ul>
+| Topics         |   Finished      | 
+|----------------|-----------------|  
+| Calendar Cache |       []        | 
+| Object Cache   |       []        | 
+| Object Cache   |       []        | 
+| Object Cache   |       []        | 
+
 <h1>Side Missions</h1>
 <ul>
   <li>Prompt Page <a href="https://suubh.github.io/Journey-of-JS/Projects/index.html"> View </a></li>
