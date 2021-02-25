@@ -25,7 +25,7 @@
 | Topics         |   Finished      | 
 |----------------|-----------------|  
 | Calendar Cache |      - [x]      | 
-| Object Cache   |       <ul><li>[x] item1</li><li>       | 
+| Object Cache   |       <ul><li>[x] </li></ul>       | 
 | Object Cache   |       []        | 
 | Object Cache   |       []        | 
 
