@@ -1,5 +1,5 @@
 # Journey-of-JS
-<img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png">
+<!--<img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> -->
 ### Learn to style</h1>
 <!--
 <ul>
