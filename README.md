@@ -24,7 +24,7 @@
 -->
 | Topics         |   Finished      | 
 |----------------|-----------------|  
-| Calendar Cache |       [x]        | 
+| Calendar Cache |      - [x]        | 
 | Object Cache   |       []        | 
 | Object Cache   |       []        | 
 | Object Cache   |       []        | 
