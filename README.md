@@ -1,9 +1,9 @@
 # Journey-of-JS
-<!--<img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> -->
-### Learn to style</h1>
-<!--
+<img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> 
+<h1>Learn to style</h1>
+
 <ul>
-  <li><a href=""> Variables </a></li>
+  <li><a href=""> Variables </a>[x]</li>
   <li><a href=""> Array in JavaScript </a></li>
   <li><a href=""> Function </a></li>
   <li><a href=""> Arrow Function  </a></li>
@@ -21,13 +21,8 @@
   <li><a href=""> Concept of "this" </a></li>
   <li><a href=""> Try and Catch </a></li>
 </ul>
--->
-| Topics         |   Finished      | 
-|----------------|-----------------|  
-| Calendar Cache |      - [x]      | 
-| Object Cache   |       <ul><li>[] </li></ul>       | 
-| Object Cache   |       []        | 
-| Object Cache   |       []        | 
+
+
 
 <h1>Side Missions</h1>
 <ul>
