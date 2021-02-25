@@ -3,7 +3,7 @@
 <h1>Learn to style</h1>
 
 <ul>
-  <li><a href=""> Variables </a>[x]</li>
+  <li>[x]<a href=""> Variables </a></li>
   <li><a href=""> Array in JavaScript </a></li>
   <li><a href=""> Function </a></li>
   <li><a href=""> Arrow Function  </a></li>
