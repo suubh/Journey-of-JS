@@ -1,6 +1,6 @@
 # Journey-of-JS
 <img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png">
-<h1>Learn to style</h1>
+### Learn to style</h1>
 <!--
 <ul>
   <li><a href=""> Variables </a></li>
