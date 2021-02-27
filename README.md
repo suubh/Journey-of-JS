@@ -2,6 +2,8 @@
 
 ![Javascript](https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png)
 
+
+# My intro in JS
 ```
   const name = "Shubham Singh"
   var about = {
