@@ -10,7 +10,11 @@
 
 <ul>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/variables.js"> Variables </a></li>
-  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/array.js"> Array in JavaScript </a></li>
+  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/array.js"> Array in JavaScript </a>
+    <ol>
+      <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/morearray.js"> Fill and Filter </a></li>
+    </ol>
+  </li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/function.js"> Function </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/arrow.js"> Arrow Function  </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/context.js"> Context Understanding in JS </a></li>
