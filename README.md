@@ -8,7 +8,7 @@
   <li><a href=""> Function </a></li>
   <li><a href=""> Arrow Function  </a></li>
   <li><a href=""> Context Understanding in JS </a></li>
-  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/forLoop.js"> Loops (for,while,forEach,) </a></li>
+  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/forLoop.js"> Loops (for,while,forEach) </a></li>
   <li><a href=""> Conditionals </a></li>
   <li><a href=""> Operators </a></li>
   <li><a href=""> Logical Operators </a></li>
