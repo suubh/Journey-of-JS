@@ -30,3 +30,6 @@
   <li>Coming Soon...</l1>
 </ul>
 
+
+[![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
+
