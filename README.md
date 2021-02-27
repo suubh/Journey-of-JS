@@ -23,11 +23,12 @@
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/operators.js"> Operators </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/logicalOperation.js"> Logical Operators </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/ternary.js"> Ternary Operator </a></li>
+  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/switch.js"> Switch in JavaScript </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/methods.js"> Methods </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/object.js"> Object Concept </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/scopechain.js"> Scopechain  </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/sliceSpice.js"> Slice and Spice </a></li>
-  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/switch.js"> Switch in JavaScript </a></li>
+  <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/Coercion.js"> Coercion </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/this.js"> Concept of "this" </a></li>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/tryandcatch.js"> Try and Catch </a></li>
 </ul>
