@@ -2,6 +2,19 @@
 
 ![Javascript](https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png)
 
+```
+  const name = "Shubham Singh"
+  var about = {
+    Passion : "(Machine Learning | Web Development)",
+    Skills : "(Experienced : C | Python | JavaScript) && (Familiar : Java | C++) && (Machine Learning)",
+    Lib_Frameworks : "TensorFlow | React | Express | Node ",
+    DBMS : "MySQL | MongoDb",
+    CS_Sub : "Data Structure | Algorithms | DBMS | OS | OOP | CN",
+    Extra : "Photography | Premiere Pro | Photoshop"
+  }
+
+```
+
 
 [![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
 
