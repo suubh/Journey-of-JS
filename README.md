@@ -1,6 +1,8 @@
 # Journey-of-JS
 <img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> 
-<h1>Learn to style</h1>
+[![GitHub stars](https://img.shields.io/github/stars/suubh/CodeClass.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
+
+<h1>Learn - </h1>
 
 <ul>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/variables.js"> Variables </a></li>
@@ -30,6 +32,6 @@
   <li>Coming Soon...</l1>
 </ul>
 
-<h3>If it helped , show some love by giving a star .</h3><ul></ul>
+
 [![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
 
