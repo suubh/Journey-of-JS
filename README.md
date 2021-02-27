@@ -1,6 +1,5 @@
 # [Journey-of-JS](https://suubh.github.io/Journey-of-JS/)
 
-```![Javascript](https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png)```
 
 
 # My intro in JS
