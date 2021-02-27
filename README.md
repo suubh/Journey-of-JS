@@ -30,6 +30,6 @@
   <li>Coming Soon...</l1>
 </ul>
 
-<h3>If it helped , show some love by giving a star .</h3>
+<h3>If it helped , show some love by giving a star .</h3><ul></ul>
 [![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
 
