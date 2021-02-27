@@ -1,5 +1,9 @@
 # Journey-of-JS
-<p><img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> </p>
+<p>
+  <img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> 
+</p>
+
+
 [![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
 
 <h1>Learn - </h1>
