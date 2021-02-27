@@ -1,7 +1,5 @@
 # [Journey-of-JS](https://suubh.github.io/Journey-of-JS/)
-<p>
-  <img src="https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png"> 
-</p>
+
 ![Javascript](https://github.com/suubh/Journey-of-JS/blob/master/Projects/javascript-illustration.png)
 
 
