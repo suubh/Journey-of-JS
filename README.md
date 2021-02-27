@@ -2,7 +2,7 @@
 
 
 
-# My intro in JS
+## My intro in JS
 ```
   const name = "Shubham Singh"
   var about = {
