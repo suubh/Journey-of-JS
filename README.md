@@ -60,7 +60,7 @@
 
 
 
-<h1>👁 Hackerrank Soln. - 10 Days of JS</h1>
+<h1>👁 HackerRank Soln. - 10 Days of JS</h1>
 <ul>
   <li><a href="">Day 1</a></li>
   <li><a href="">Day 2</a></li>
