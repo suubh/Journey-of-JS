@@ -52,6 +52,9 @@
 <ul>
   <li>Prompt Page <a href="https://suubh.github.io/Journey-of-JS/Projects/index.html"> View </a></li>
   <li>Coming Soon...
+</ul>
 
+
+<h1>Hackerrank Soln. - 10 Days of JS</h1>
 
 
