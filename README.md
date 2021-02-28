@@ -60,6 +60,6 @@
 
 
 
-<h2>👁 Hackerrank Soln. - 10 Days of JS</h2>
+<h1>👁 Hackerrank Soln. - 10 Days of JS</h1>
 
 
