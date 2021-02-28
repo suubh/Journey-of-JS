@@ -61,5 +61,18 @@
 
 
 <h1>👁 Hackerrank Soln. - 10 Days of JS</h1>
+<ul>
+  <li><a href="">Day 1</a></li>
+  <li><a href="">Day 2</a></li>
+  <li><a href="">Day 3</a></li>
+  <li><a href="">Day 4</a></li>
+  <li><a href="">Day 5</a></li>
+  <li><a href="">Day 6</a></li>
+  <li><a href="">Day 7</a></li>
+  <li><a href="">Day 8</a></li>
+  <li><a href="">Day 9</a></li>
+  <li><a href="">Day 10</a></li>
+</ul>
+  
 
 
