@@ -57,6 +57,6 @@
 
 
 
-<h1>Hackerrank Soln. - 10 Days of JS</h1>
+<h2>Hackerrank Soln. - 10 Days of JS</h2>
 
 
