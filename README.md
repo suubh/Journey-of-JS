@@ -51,7 +51,7 @@
 <h1><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>Side Missions</h1>
 <ul>
   <li>Prompt Page <a href="https://suubh.github.io/Journey-of-JS/Projects/index.html"> View </a></li>
-  <li>Coming Soon...</li>
+  <li>Coming Soon ...</li>
 </ul>
 
 
