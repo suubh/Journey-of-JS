@@ -19,7 +19,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/suubh/Journey-of-JS.svg?style=social&label=Star&maxAge=2592000)](https://suubh/Journey-of-JS/stargazers/)
 
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">Learn - </h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">Learn- </h1>
 
 <ul>
   <li><a href="https://github.com/suubh/Journey-of-JS/blob/master/variables.js"> Variables </a></li>
